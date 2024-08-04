@@ -10,11 +10,19 @@ The primary objective of studying employee attrition is to identify the underlyi
 
 Dashboard 1:
 
-![Uploading Dashboard 1 (1).png…]()
+![Dashboard 1 (1)](https://github.com/user-attachments/assets/4b848c2e-10b0-43e9-94ca-2613c4104494)
+
 
 Dashboard 2:
 
-![Uploading Dashboard 2 (1).png…]()
+![Dashboard 2 (1)](https://github.com/user-attachments/assets/a90fe05d-8742-4187-abfb-db84ef131543)
+
+Dashboard 3:
+
+![Dashboard 3](https://github.com/user-attachments/assets/548f79a5-93e0-4fc2-ad94-f2ee4dc3e7bb)
+
+
+
 
 
 
