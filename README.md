@@ -8,8 +8,16 @@ Objective of the Project:
 
 The primary objective of studying employee attrition is to identify the underlying causes and develop effective strategies to reduce turnover. By analyzing factors such as job satisfaction, work-life balance, compensation, and career development opportunities, organizations can gain insights into what drives employees to leave. This understanding enables the development of targeted interventions aimed at improving employee retention, enhancing organizational stability, and fostering a positive work culture.
 
-Dashboards :
+Dashboard 1:
 
-![Dashboard 1 (1)](https://github.com/user-attachments/assets/3dd88bff-5a13-47c8-9d07-99fb2d5b8fc8)
+![Uploading Dashboard 1 (1).png…]()
+
+Dashboard 2:
+
+![Uploading Dashboard 2 (1).png…]()
+
+
+
+
 
 
